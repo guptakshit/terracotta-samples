@@ -12,12 +12,12 @@ Terracotta provides a list of key metrics in Prometheus compatible format over H
 It contains following 3 rows:
 - **Server Metrics** - contains server-side statistics.
 
-   <img src="./images/server-metrics-row.png" width="80%" alt="server-metrics-row">
+   ![server-metrics-row](./images/server-metrics-row.png)
    
 - **Cache Metrics** - contains Ehcache statistics.
 
-   <img src="./images/cache-metrics-row.png" width="80%" alt="cache-metrics-row">
+  ![cache-metrics-row](./images/cache-metrics-row.png)
 
 - **Store Metrics** - contains statistics for TCStore dataset operations.
 
-   <img src="./images/store-metrics-row.png" width="80%" alt="store-metrics-row">
+  ![store-metrics-row](./images/store-metrics-row.png)
